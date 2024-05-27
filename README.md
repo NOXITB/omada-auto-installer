@@ -1,3 +1,4 @@
+
 # TP-Link Omada Software Controller Installer
 
 This script automates the installation of the TP-Link Omada Software Controller on supported Linux distributions.
@@ -23,13 +24,13 @@ This script automates the installation of the TP-Link Omada Software Controller 
 2. **Make the Script Executable**
 
    ```bash
-   chmod +x install-omada-controller.sh
+   chmod +x install.sh
    ```
 
 3. **Run the Script**
 
    ```bash
-   sudo ./install-omada-controller.sh
+   sudo ./install.sh
    ```
 
 ## What the Script Does
